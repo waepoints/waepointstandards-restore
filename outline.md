@@ -2,7 +2,7 @@
 
 ### System Speech and System Setup Priorities Hierarchy
 
-Governing Entity Published Policy
+Governing Entity Governmental Published Policy
 
 Governing Entity Departmental Order and/or Governing Entity Departmental Directive
 
@@ -148,7 +148,7 @@ Opt me… in…, Opt in to…, Opt out of….
 
 ### Connection System Commands
 
-Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join…, …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
+Connect to…, Connect to… with a/the message…, ...Hangup.../…Hangs up…/...Hung up…, Join… with..., …Left…/…Leaves…/…Leave…, …Listen for incoming connection/joining requests...
 
 ### Transportation System Commands
 
@@ -164,7 +164,7 @@ Generate a new name…, Deshelve…, ...Ask… … Where…/… Where’s…/…
 
 ### Declaring System Commands
 
-... Focus..., Perform the system command(s)..., ... Apply..., … (As…/Turn… to…/Turn… into…/With) modiphases/modiphase(d)…, … Secure…, … Free…, … Ward…, … Allward..., … Lock…, … Unanchor..., Do/Perform The Essential Anchoring For..., …Reset…, … As Modiphases…, … I confirm…, …Join… the/those… phrases…, … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … Stack..., … Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…
+... (Re)Focus..., (Re)Perform/(Re)Do the system command(s)..., ... (Re)Apply..., … (Re)Secure…, … Free…, … (Re)Ward…, … (Re)Allward..., … (Re)Lock…, … Unanchor..., (Re)Do/(Re)Perform The Essential Anchoring For..., …(Re)Reset… back to reality…, … I (Re)confirm…, …(Re)Join… the/those… phrases…, … (Re)Separate... the/those/that... Phrase/phrases... Into..., … Change… to say…, … Amend… With…, … Prepend… To…, … Add… that… to…, … Remove… from…, … (Re)Stack..., … (Re)Track..., … Unstack…, … Stop tracking…, … Unstack… and leave…, … Stop tracking and unstack..., … Stop tracking… and leave…, … Stop tracking and unstack… and leave…, … Clean up/Clear/Lose…, … Clean up/Clear/Lose… and adjust…, ... Refactor...
 
 ### Communication System Commands
 
